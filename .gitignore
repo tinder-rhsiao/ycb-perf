@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/build
+/public/build
+/public/locale-data
+/build
+/tmp
+/tsrc
+webpack-assets.json
+webpack-assets.prod.json
+webpack-stats.json
+
+# dependencies
+/node_modules
+/bower_components
+
+# IDEs and editors
+/.idea
+/.vscode
+.project
+.classpath
+*.launch
+.settings/
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log*
+testem.log
+/typings
+
+#System Files
+.DS_Store
+Thumbs.db
+
+
+.DS_STORE
+*.log
+/e2e/reports/
+/e2e/screenshots_1.0.0/
+/e2e/logs/selenium-debug.log
+/e2e/logs/log

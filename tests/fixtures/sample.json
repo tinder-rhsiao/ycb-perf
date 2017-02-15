@@ -1,0 +1,12 @@
+[
+    {
+        "settings": ["master"],
+        "title": "foo",
+        "description": "bar",
+        "config": {
+          "title": "sub",
+          "image": "a"
+        },
+        "api": "gotinder.com"
+    }
+]
