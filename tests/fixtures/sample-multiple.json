@@ -1,0 +1,32 @@
+[
+    {
+        "settings": ["master"],
+        "title": "foo",
+        "description": "bar",
+        "config": {
+          "title": "sub",
+          "image": "a"
+        },
+        "api": "gotinder.com"
+    },
+    {
+        "settings": ["lang:en"],
+        "title": "foo",
+        "description": "bar",
+        "config": {
+          "title": "sub",
+          "image": "a"
+        },
+        "api": "gotinder.com"
+    },
+    {
+        "settings": ["lang:fr"],
+        "title": "foo",
+        "description": "bar",
+        "config": {
+          "title": "sub",
+          "image": "a"
+        },
+        "api": "gotinder.com"
+    }
+]
